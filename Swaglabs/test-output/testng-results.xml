@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-05T16:10:48 GMT" name="Suite" finished-at="2020-11-05T16:11:42 GMT" duration-ms="54021">
+    <groups>
+    </groups>
+    <test started-at="2020-11-05T16:10:48 GMT" name="Test" finished-at="2020-11-05T16:11:42 GMT" duration-ms="54021">
+      <class name="Saucedemo.Products">
+        <test-method signature="sortPrice(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Saucedemo.Products@4df50bcc]" started-at="2020-11-05T16:10:48 GMT" name="sortPrice" data-provider="getData" finished-at="2020-11-05T16:11:42 GMT" duration-ms="53820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ankita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RM3 9FF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPrice -->
+      </class> <!-- Saucedemo.Products -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
